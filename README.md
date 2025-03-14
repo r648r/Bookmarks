@@ -20,7 +20,7 @@ L'API CDX (Capture inDeX) permet d'accéder aux métadonnées des captures de la
 		window.open('https://viewdns.info/iphistory/?domain='+encodeURIComponent(location.hostname));
 		window.open('https://viewdns.info/dnsreport/?domain='+encodeURIComponent(location.hostname))
 	})()
-[DNS ViewDNS.info](javascript:(function(){"use strict";window.open('https://viewdns.info/iphistory/?domain='+encodeURIComponent(location.hostname));window.open('https://viewdns.info/dnsreport/?domain='+encodeURIComponent(location.hostname))})())
+[DNS ViewDNS.info](javascript%3A%28function%28%29%7B%22use%20strict%22%3Bwindow.open%28%27https%3A%2F%2Fviewdns.info%2Fiphistory%2F%3Fdomain%3D%27%2BencodeURIComponent%28location.hostname%29%29%3Bwindow.open%28%27https%3A%2F%2Fviewdns.info%2Fdnsreport%2F%3Fdomain%3D%27%2BencodeURIComponent%28location.hostname%29%29%7D%29%28%29)
 #### Explication rapide
 
 Ouvre deux onglets avec ViewDNS.info pour vérifier l'historique IP et le rapport DNS complet du domaine actuel.
